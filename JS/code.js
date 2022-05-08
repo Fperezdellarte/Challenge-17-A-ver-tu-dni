@@ -12,4 +12,5 @@ while(exit!=1){
         alert("su dni no es valido por favor vuelva a ingresarlo");
     }
 }
+
 console.log("Que tenga un buen dia");
